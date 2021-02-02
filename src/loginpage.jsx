@@ -34,7 +34,7 @@ export default class LogIn extends React.Component {
         </div>
         <button type="submit" class="btn btn-primary">
           login
-        </button>
+        </button> 
         <p className="forgot-password text-right">
           <a href="#">Forgot password?</a>
         </p>
